@@ -18,6 +18,7 @@ body{
   font-size: 15px;
   font-family: 'Spartan', sans-serif;
   min-height: 100vh;
+  background: url(/images/bg-pattern-top-desktop.svg) top left no-repeat, url(/images/bg-pattern-bottom-mobile.svg) bottom right no-repeat;
 }
 
 .container{
